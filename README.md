@@ -48,7 +48,8 @@ key - Параметр нужный для колбека (не обязател
 
 ## Методы
 Список методов API
-[donatesget](https://www.npmjs.com/package/keksik#donatesget) - Получение списка донатов\n
+[donatesget](https://www.npmjs.com/package/keksik#donatesget) - Получение списка донатов
+
 [donatesgetlast](https://www.npmjs.com/package/keksik#donatesgetlast) - Получение списка последних донатов
 [donateschangestatus](https://www.npmjs.com/package/keksik#donateschangestatus) - Изменить статус доната
 [donatesanswer](https://www.npmjs.com/package/keksik#donatesanswer) - Добавить/изменить ответ сообщества на донат
