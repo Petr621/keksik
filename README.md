@@ -11,7 +11,7 @@
 ## Установка
 
 Это модуль на [Node.js](https://nodejs.org/en/)
-Устанавливается с помощью [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
+Устанавливается с помощью [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
 
 ```
 $ npm install keksik
@@ -48,7 +48,7 @@ key - Параметр нужный для колбека (не обязател
 
 ## Методы
 Список методов API
-[donatesget](https://www.npmjs.com/package/keksik#donatesget) - Получение списка донатов
+[donatesget](https://www.npmjs.com/package/keksik#donatesget) - Получение списка донатов\n
 [donatesgetlast](https://www.npmjs.com/package/keksik#donatesgetlast) - Получение списка последних донатов
 [donateschangestatus](https://www.npmjs.com/package/keksik#donateschangestatus) - Изменить статус доната
 [donatesanswer](https://www.npmjs.com/package/keksik#donatesanswer) - Добавить/изменить ответ сообщества на донат
